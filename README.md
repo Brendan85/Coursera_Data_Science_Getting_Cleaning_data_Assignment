@@ -1,7 +1,7 @@
 # Read Me for run_analysis.R code
 
 ## What data is being analysed
-  [] Data from an experiment from the accelerometer in samsung smartphones
+  [ Data from an experiment from the accelerometer in samsung smartphones]
   [] Experiment is here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
   [] Data is here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
   
