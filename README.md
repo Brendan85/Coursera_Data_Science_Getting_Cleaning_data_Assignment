@@ -1,4 +1,4 @@
-Read Me for run_analysis.R code
+## Read Me for run_analysis.R code
 
 What data is being analysed
   Data from an experiment from the accelerometer in samsung smartphones
