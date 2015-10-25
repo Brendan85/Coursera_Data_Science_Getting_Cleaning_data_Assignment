@@ -1,0 +1,12 @@
+### Code Book
+
+## About the data
+* Here we will summarise and tidy the data from an experiment regarding accelerometers use in Smart Phones
+* The experiment is here:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+* The raw data is here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+* Authorod buy: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz.
+
+## Citation
+* Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
+
+
