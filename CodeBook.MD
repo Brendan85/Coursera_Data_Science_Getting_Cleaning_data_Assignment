@@ -17,7 +17,7 @@
  * The activity is summarised by activityID: 1-6: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
  * Finally the measured variables are as follows and form the majority of our rows. These are the average value for each of these, given we had a number of measurements
 
-** tBodyAcc-mean()-X
+  * tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
 tBodyAcc-std()-X
